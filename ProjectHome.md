@@ -1,0 +1,1 @@
+Creates a landscape scene with randomly generated components, using a specified color scheme - purpose to create an image to paint from.
